@@ -1,0 +1,32 @@
+			width: 440px;
+			height: 440px;
+			border-radius: 500px;}
+
+			<div id="logo"><img src="" title="TNL" width="300" height="150">
+			</div>
+			<button type="button"
+			onclick="formateur.htm">planning</button>
+			<table border="1" class="table">
+				<tr>
+					<td align="center"><img src="aphelios.jpg" alt="David" width="200" waight="200"/></td>
+				</tr>
+				<tr>
+					<td align="center"><b>Aphelios le petit nouveau</b></td>
+				</tr>
+				<tr>
+					<td align="center">Jaillissant des ombres duclair de lune,</br>Aphelios abat ses enemis sans un mot. Son arsenal complexe,</br>sa capacité a changer d'arme et sa précision</br>parlent pour lui.</td>
+				</tr>
+			</table>
+			.bouton {
+				color: #161c490;
+				background-color: #cfb300;}
+				<table border="1" width="10%">
+					<tr>
+						<td align="center" valign="center" class="s"><button onclick="window.location.href = 'acceuil.htm';" class="bouton"><b>Acceuil</b></button></td>
+						<td align="center" valign="center" class="s"><button onclick="window.location.href = 'introduction.htm';" class="bouton"><b>intro</b></button></td>
+						<td align="center" valign="center" class="s"><button onclick="window.location.href = 'news.htm';" class="bouton"><b>news</b></button></td>
+						<td align="center" valign="center" class="s"><button onclick="window.location.href = 'univers.html';" class="bouton"><b>univers</b></button></td>
+						<td align="center" valign="center" class="s"><button onclick="window.location.href = 'commu.html';" class="bouton"><b>communautés</b></button></td>
+						<td align="center" valign="center" class="s"><button onclick="window.location.href = 'jeux.html';" class="bouton"><b>jeux</b></button></td>
+					</tr>
+				</table>
